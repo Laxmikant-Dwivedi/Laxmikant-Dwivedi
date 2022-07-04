@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laxmikant-Dwivedi
-- 👀 I’m interested in learning new Programming languages.
-- 🌱 I’m currently learning git hub and c++.
+- 👀 I’m interested in learning coding. 
+- 🌱 I’m currently learning github and c++.
 - 📫 You can reach me through my email id -- dwivedilakshya7509@gmail.com
 
 <!---
